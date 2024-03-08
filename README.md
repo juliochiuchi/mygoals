@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img width="100%" alt="app-tela-1" title="Banner" src=".github/app-tela-1.png" />
-  <img width="100%" alt="app-tela-2" title="Banner" src=".github/app-tela-2.png" />
-  <img width="100%" alt="app-tela-3" title="Banner" src=".github/app-tela-3.png" />
+  <img width="100%" alt="screen-app" title="Screens" src=".github/screen-app.png" />
 </h1>
 
 ### Links
@@ -9,10 +7,6 @@
 🔴 **Figma do projeto:** [MyGoals App](https://www.figma.com/community/file/1346604660147063430)
 
 ---
-
-<h1 align="center">
-  <img width="100%" alt="Banner" title="App" src=".github/app.png" />
-</h1>
 
 ### Sobre o projeto
 

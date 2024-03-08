@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="100%" alt="screen-app" title="Screens" src=".github/screen-app.png" />
+  <img width="100%" alt="screen-app" title="Screens" src=".github/screens-app.png" />
 </h1>
 
 ### Links

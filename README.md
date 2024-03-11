@@ -10,4 +10,4 @@
 
 ### Sobre o projeto
 
-App Minhas Metas para poupar até atingir sua meta financeira para adquirir uma compra nova. Esse é um dos projetos desenvolvidos em aula do evento React Native na Prática da @Rocketseat.
+App Minhas Metas para poupar até atingir sua meta financeira para adquirir uma nova compra.
